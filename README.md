@@ -1,0 +1,1 @@
+Run the programme in terminal "npm start <full URL>"
